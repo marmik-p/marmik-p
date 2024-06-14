@@ -26,7 +26,7 @@ Driven by a relentless curiosity, I embrace every opportunity to learn and maste
 
 -->
 
-Software Engineer at BYJU'S | Backend specialist in Node.js & Express.js | Graduated from VNIT Nagpur in May 2022 | Proficient in C++, JavaScript, Java, TypeScript | Strong problem-solving skills with a foundation in data structures and algorithms | Passionate learner, always exploring emerging tech.
+Software Engineer at NIELSEN | Backend specialist in Node.js & Express.js | Graduated from VNIT Nagpur in May 2022 | Proficient in C++, JavaScript, Java, TypeScript | Strong problem-solving skills with a foundation in data structures and algorithms | Passionate learner, always exploring emerging tech.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="170" />
 
