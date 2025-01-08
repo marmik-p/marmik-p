@@ -36,8 +36,9 @@ Software Engineer at NIELSEN | Backend specialist in Node.js & Express.js | Grad
 - 💻 Competitive Programmer (**Specialist on CodeForces**, **4 :star: on CodeChef**);
 - :book: Currently working on Building and Deploying containerised applications;
 - 📫 How to reach me: [Marmik Prajapati](https://www.linkedin.com/in/marmik-prajapati-a3a89b1a1/);
+<!--
 - 📝 [Marmik Prajapati Resume](https://drive.google.com/file/d/1v6WViG2j-8Y-NPCEOn40zrpEccLHyLjP/view?usp=sharing)
-
+-->
 # 🌐 Socials
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marmik-prajapati-a3a89b1a1/)
